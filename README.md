@@ -1,8 +1,13 @@
 # TrafficVision
-git strategy:
+*git strategy:*  
 1) things that are *in progress of development* are to be committed and pushed into the deDICKated feature branch. After a feature is done and merged, the feature branch is to be deleted.
 2) feature branches *must* have a continious PR for reviews.
 3) *never* push and force push to master.
+---
+1) Major modules are to be separated into dynamically linked libraries.
+2) Major modules are separated by features that they implement.
+3) Codestyle c99, compilation standard -- c11
+4) [Codestyle guidline](https://github.com/MaJerle/c-code-style); -Wall -Werror
 ---
 TrafficVision design specification  
 - [ ] -A  
