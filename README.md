@@ -9,6 +9,9 @@
 3) Codestyle c99, compilation standard -- c11
 4) [Codestyle guidline](https://github.com/MaJerle/c-code-style); -Wall -Werror
 ---
+reference list 
+1) https://gauravsarma1992.medium.com/packet-sniffer-and-parser-in-c-c86070081c38
+---
 TrafficVision design specification  
 - [ ] -A  
     Print each packet (minus its link level header) in ASCII. Handy for capturing web pages.   
