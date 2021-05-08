@@ -2,14 +2,15 @@
 *git strategy:*  
 1) things that are *in progress of development* are to be committed and pushed into the deDICKated feature branch. After a feature is done and merged, the feature branch is to be deleted.
 2) feature branches *must* have a continious PR for reviews.
-3) *never* push and force push to master.
+3) *never* push and force push to master.  
+4) **ALL COMMIT MESSAGES _MUST_ BE PREPENDED BY** `yaaaaaaaas girrrrrrrrrrrrl!`
 ---
 1) Major modules are to be separated into dynamically linked libraries.
 2) Major modules are separated by features that they implement.
 3) Codestyle c99, compilation standard -- c11
 4) [Codestyle guidline](https://github.com/MaJerle/c-code-style); -Wall -Werror
----
-reference list 
+---  
+reference list  
 ~~1) https://gauravsarma1992.medium.com/packet-sniffer-and-parser-in-c-c86070081c38~~  
 2) [This nice reference](https://github.com/noopeah/TrafficVision/blob/main/reference.c)
 ---
