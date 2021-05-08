@@ -10,7 +10,8 @@
 4) [Codestyle guidline](https://github.com/MaJerle/c-code-style); -Wall -Werror
 ---
 reference list 
-1) https://gauravsarma1992.medium.com/packet-sniffer-and-parser-in-c-c86070081c38
+~~1) https://gauravsarma1992.medium.com/packet-sniffer-and-parser-in-c-c86070081c38~~  
+2) [This nice reference](https://github.com/noopeah/TrafficVision/blob/main/reference.c)
 ---
 TrafficVision design specification  
 - [ ] -A  
